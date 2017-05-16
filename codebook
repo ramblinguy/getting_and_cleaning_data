@@ -1,0 +1,5 @@
+#Code Book
+This summarizes the variables located in the tidy.txt file
+##Identifiers
+-subject
+-activity
